@@ -1,3 +1,3 @@
 # Tiny Software
 
-Builds tiny software solutions for tiny problems.
+Tiny Software solves Tiny Problems with Tiny Products.
