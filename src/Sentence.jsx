@@ -4,7 +4,7 @@ import './Sentence.css';
 function Sentence() {
   return (
     <div className="sentence">
-      Tiny Software solves Tiny Problems with Tiny Products.
+      <h1><em>Tiny Software</em> solves <em>Tiny Problems</em> with <em>Tiny Products</em>.</h1>
     </div>
   );
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskerville:wght@200..900&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -6,4 +8,13 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 200;
+  color: #000000;
+  font-family: 'Baskerville';
+  letter-spacing: -0.005em;
 }
