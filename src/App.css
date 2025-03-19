@@ -30,34 +30,29 @@ h2 {
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: #000000;
   letter-spacing: -0.005em;
   margin: 1.5rem 0 0.5rem 0;
-  
-}
-
-li {
-  font-size: 0.8rem;
-  font-weight: 200;
-  color: #000000;
   font-family: sans-serif;
-  margin-bottom: 0.5rem;
-  line-height: 1.4;
 }
 
 ul {
   list-style-type: none;
 }
 
-p {
+p, li {
   font-size: 0.8rem;
   font-weight: 200;
   color: #000000;
   font-family: sans-serif;
   margin-bottom: 1rem;
-  line-height: 1.5;
+  line-height: 1.4;
+  max-width: 80ch;
+  letter-spacing: -0.005em;
+  word-spacing: 0.05em;
+  hyphens: auto;
 }
 
 .page-container {

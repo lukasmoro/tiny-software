@@ -1,5 +1,5 @@
 import React from 'react';
-import Sentence from './Sentence';
+import Sentence from '../components/Sentence';
 
 function Home() {
   return (

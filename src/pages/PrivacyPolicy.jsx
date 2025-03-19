@@ -5,12 +5,12 @@ function PrivacyPolicy() {
     <div className="page-container">
       <h2>Privacy Policy for Tiny Podcasts</h2>
       <p>Last Updated: 19th March 2025</p>
-      <h3>1. Introduction</h3>
+      <h3>I. Introduction</h3>
       <p>
       Tiny Software, registered at Großklein 12, Austria ("we", "us", or "our") operates the Tiny Podcasts Chrome extension (the "Extension"). This Privacy Policy informs you about how we collect, use, and process your personal data when you use our Extension, and your rights regarding your personal data in accordance with the General Data Protection Regulation (GDPR) and the Austrian Data Protection Act (Datenschutzgesetz).
       </p>
 
-      <h3>2. Data Controller</h3>
+      <h3>II. Data Controller</h3>
       <p>
         Tiny Software (Lukas Moro)<br />
         Grossklein 12<br />
@@ -20,7 +20,7 @@ function PrivacyPolicy() {
         Phone: +436649288857<br />
       </p>
 
-      <h3>3. Information We Collect</h3>
+      <h3>III. Information We Collect</h3>
       <p>Our Extension collects the following information through Google Analytics 4:</p>
       <ul>
         <li>Usage Data: Information about your interactions with the Extension, including storage changes, podcast data, content interactions, features used, and time spent using the Extension.</li>
@@ -28,7 +28,7 @@ function PrivacyPolicy() {
         <li>Event Data: Records of specific actions you take within the Extension, such as playing podcasts, saving favorites, and adjusting settings.</li>
       </ul>
 
-      <h3>4. Use of Google Analytics 4</h3>
+      <h3>IV. Use of Google Analytics 4</h3>
       <p>
         We use Google Analytics 4 (GA4) to analyze Extension usage and improve our services. Google Analytics 4 is a web analytics service provided by Google Ireland Limited ("Google").
       </p>
@@ -42,14 +42,14 @@ function PrivacyPolicy() {
         Google Analytics 4 data is retained for a period of 14 months unless otherwise configured.
       </p>
 
-      <h3>5. Legal Basis for Processing</h3>
+      <h3>V. Legal Basis for Processing</h3>
       <p>We process your personal data on the following legal bases:</p>
       <ul>
         <li>Consent (Art. 6(1)(a) GDPR): We collect and process your data based on your explicit consent, which you provide by accepting our cookie banner when first using the Extension.</li>
         <li>Legitimate Interest (Art. 6(1)(f) GDPR): We have a legitimate interest in analyzing how our Extension is used to improve its functionality and user experience.</li>
       </ul>
 
-      <h3>6. Your Rights</h3>
+      <h3>VI. Your Rights</h3>
       <p>Under the GDPR and Austrian Data Protection Act, you have the following rights:</p>
       <ul>
         <li>Right to access: You can request information about your personal data that we process.</li>
@@ -62,7 +62,7 @@ function PrivacyPolicy() {
       </ul>
       <p>To exercise these rights, please contact us using the contact details provided above.</p>
 
-      <h3>7. Opt-Out Options</h3>
+      <h3>VII. Opt-Out Options</h3>
       <p>You can opt out of Google Analytics tracking within our Extension by:</p>
       <ul>
         <li>Adjusting the Extension settings: Go to Settings {'>'}  Privacy and toggle "Disable Analytics"</li>
@@ -70,22 +70,22 @@ function PrivacyPolicy() {
         <li>Disabling cookies in your browser settings</li>
       </ul>
 
-      <h3>8. International Data Transfers</h3>
+      <h3>VIII. International Data Transfers</h3>
       <p>
         Google Analytics 4 may transfer your data to servers located outside the European Economic Area (EEA), including in the United States. Such transfers are safeguarded by Standard Contractual Clauses approved by the European Commission.
       </p>
 
-      <h3>9. Data Security</h3>
+      <h3>IX. Data Security</h3>
       <p>
         We implement appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.
       </p>
 
-      <h3>10. Changes to This Privacy Policy</h3>
+      <h3>X. Changes to This Privacy Policy</h3>
       <p>
         We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
       </p>
 
-      <h3>11. Complaints</h3>
+      <h3>XI. Complaints</h3>
       <p>
         If you believe that our processing of your personal data infringes data protection laws, you have the right to lodge a complaint with the Austrian Data Protection Authority (Datenschutzbehörde):
       </p>
@@ -99,7 +99,7 @@ function PrivacyPolicy() {
         Website: www.dsb.gv.at
       </p>
 
-      <h3>12. Contact Us</h3>
+      <h3>XII. Contact Us</h3>
       <p>
         If you have any questions about this Privacy Policy or our data practices, please contact us using the contact details provided above.
       </p>
