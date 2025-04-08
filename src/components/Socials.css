@@ -36,17 +36,17 @@
 
 .discord {
   background-color: hsl(30, 33%, 96%);
-  color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 20%);
 }
 
 .github {
     background-color: hsl(30, 33%, 96%);
-    color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 20%);
 }
 
 .substack {
     background-color: hsl(30, 33%, 96%);
-    color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 20%);
 }
 
 .social-button svg {
