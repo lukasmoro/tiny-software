@@ -4,4 +4,23 @@
   min-height: 100vh;
   justify-content: flex-end;
   position: relative;
+}
+
+/* Position for socials to ensure it stays fixed at its initial position */
+.home-container > :nth-child(2) {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+/* Add padding to body when sentence is sticky */
+body {
+  padding-top: 0;
+  transition: padding-top 0.2s ease;
+}
+
+body.has-sticky-header {
+  padding-top: 80px;
 } 
