@@ -16,6 +16,7 @@ function Media() {
     <div className="media-container">
       <div className="media-content">
         <div className="podcast-column">
+          <p className="podcast-description">Simple and Beautiful Podcast Player. Available for Google Chrome.</p>
           <img src={tinypodcasts1} alt="Tiny Podcast 1" className="podcast-image" />
           <img src={tinypodcasts2} alt="Tiny Podcast 2" className="podcast-image" />
           <img src={tinypodcasts3} alt="Tiny Podcast 3" className="podcast-image" />
